@@ -1,4 +1,4 @@
-# LearnLeaf Frontend
+# LearnLeaf
 LearnLeaf는 개발자를 위한 채용 정보 및 커뮤니티 플랫폼입니다.
 
 ### 주요 기능
